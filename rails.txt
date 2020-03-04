@@ -1,0 +1,226 @@
+Identifier, Author, Author Tag, Number of Comments, Opening Date, Closing Date 
+#26158, penne12, ['Ruby on Rails member'], · 3 comments, 14/08/2016, None
+#26091, elibar-uk, None, · 2 comments, 09/08/2016, 09/08/2016
+#26096, gnfisher, ['Ruby on Rails member'], · 2 comments, 09/08/2016, 09/08/2016
+#26099, yahonda, None, · 5 comments, 10/08/2016, 11/08/2016
+#26101, cmager, ['Ruby on Rails member'], · 4 comments, 10/08/2016, 11/08/2016
+#26106, BattleBrisket, ['Ruby on Rails member'], · 1 comment, 10/08/2016, 16/08/2016
+#26108, violetaria, ['Ruby on Rails member'], · 4 comments, 10/08/2016, 16/08/2016 - 17/08/2016
+#26111, claudiob, ['Ruby on Rails member'], · 1 comment, 10/08/2016, 23/08/2016
+#26115, theodorton, None, · 3 comments, 11/08/2016, 11/08/2016
+#26119, chrismccord, ['Ruby on Rails member'], · 5 comments, 11/08/2016, None
+#26120, kyatul, ['Ruby on Rails member'], · 5 comments, 11/08/2016, 11/08/2016
+#26122, johnathanludwig, ['Ruby on Rails member'], · 4 comments, 11/08/2016, 14/08/2016 - 14/08/2016
+#26123, achinn, ['Ruby on Rails member'], · 6 comments, 11/08/2016, 16/08/2016
+#26126, davidcornu, ['Ruby on Rails member'], · 4 comments, 11/08/2016, None
+#26127, rosswilson, None, · 1 comment, 11/08/2016, 12/08/2016
+#26128, brendon, ['Ruby on Rails member'], · 4 comments, 11/08/2016, 12/08/2016
+#26129, tbreier, None, · 4 comments, 12/08/2016, 16/08/2016
+#26132, liudangyi, ['Ruby on Rails member'], · 4 comments, 12/08/2016, None
+#26134, mattcg, ['Ruby on Rails member'], · 4 comments, 12/08/2016, None
+#26136, antidis, ['Ruby on Rails member'], · 3 comments, 12/08/2016, 12/08/2016
+#26137, morgoth, None, · 2 comments, 12/08/2016, 20/08/2016
+#26142, joelpresence, ['Ruby on Rails member'], · 4 comments, 12/08/2016, 12/08/2016
+#26145, bcardarella, ['Ruby on Rails member'], · 3 comments, 13/08/2016, 13/08/2016
+#26148, buehmann, None, · 1 comment, 13/08/2016, None
+#26152, krunalsheth3, None, · 1 comment, 13/08/2016, 13/08/2016
+#26153, iosdev-republicofapps, ['Ruby on Rails member'], · 1 comment, 13/08/2016, 14/08/2016
+#26171, agrimm, ['Ruby on Rails member'], · 5 comments, 15/08/2016, 21/08/2016
+#26172, k2m30, ['Ruby on Rails member'], · 9 comments, 15/08/2016, None
+#26173, joykoduru, ['Ruby on Rails member'], · 5 comments, 15/08/2016, None
+#26174, pcragone, ['Ruby on Rails member'], · 5 comments, 15/08/2016, 15/08/2016
+#26179, jgonera, None, · 1 comment, 15/08/2016, None
+#26180, benternet, ['Ruby on Rails member'], · 4 comments, 15/08/2016, 16/08/2016
+#26187, greenbigfrog, ['Ruby on Rails member'], · 2 comments, 17/08/2016, 17/08/2016
+#26189, greenbigfrog, ['Ruby on Rails member'], · 8 comments, 17/08/2016, 19/08/2016
+#26190, born4new, ['Ruby on Rails member'], · 2 comments, 17/08/2016, 17/08/2016
+#26191, RomarioLopezC, None, · 3 comments, 17/08/2016, 17/08/2016
+#26194, jcoyne, ['Ruby on Rails member'], · 3 comments, 17/08/2016, None
+#26198, Gasparila, None, · 1 comment, 17/08/2016, None
+#26201, basawyer, ['Ruby on Rails member'], · 5 comments, 18/08/2016, None
+#26209, duffyjp, ['Ruby on Rails member'], · 3 comments, 18/08/2016, None
+#26210, amilligan, None, · 5 comments, 18/08/2016, None
+#26215, rafaelfranca, ['Ruby on Rails member'], · 9 comments, 19/08/2016, 19/08/2016
+#26225, tomascharad, ['Ruby on Rails member'], · 2 comments, 19/08/2016, 19/08/2016
+#26229, taf2, ['Ruby on Rails member'], · 1 comment, 19/08/2016, 20/08/2016
+#26239, ThomasSevestre, ['Ruby on Rails member'], · 3 comments, 21/08/2016, 21/08/2016
+#26243, roberts1000, ['Ruby on Rails member'], · 2 comments, 22/08/2016, 22/08/2016
+#26244, Frexuz, None, · 2 comments, 22/08/2016, None
+#26247, wjordan, None, · 0 comments, 22/08/2016, 22/08/2016
+#26251, callancarr, ['Ruby on Rails member'], · 2 comments, 22/08/2016, 22/08/2016
+#26255, juliananunescomp, None, · 0 comments, 23/08/2016, 23/08/2016
+#26030, bughit, ['Ruby on Rails member'], · 39 comments, 02/08/2016, 03/08/2016
+#25967, vemv, ['Ruby on Rails member'], · 2 comments, 27/07/2016, None
+#25969, JanStevens, None, · 0 comments, 27/07/2016, None
+#25970, pawelgut, ['Ruby on Rails member'], · 1 comment, 27/07/2016, None
+#25971, naveen1336, ['Ruby on Rails member'], · 6 comments, 27/07/2016, 28/07/2016
+#25975, coryondemand, ['Ruby on Rails member'], · 4 comments, 28/07/2016, 02/08/2016
+#25977, sgottfried, ['Ruby on Rails member'], · 6 comments, 28/07/2016, 29/07/2016
+#25978, olivierlacan, ['Ruby on Rails member'], · 8 comments, 28/07/2016, 05/08/2016
+#25979, lorint, ['Ruby on Rails member'], · 3 comments, 28/07/2016, 28/07/2016
+#25981, mech, ['Ruby on Rails member'], · 3 comments, 29/07/2016, 29/07/2016
+#25982, stoerebink, ['Ruby on Rails member'], · 1 comment, 29/07/2016, 29/07/2016
+#25983, maxehmookau, None, · 0 comments, 29/07/2016, None
+#25984, rahulshinde100, ['Ruby on Rails member'], · 1 comment, 29/07/2016, 29/07/2016
+#25985, wangpc, ['Ruby on Rails member'], · 2 comments, 29/07/2016, 29/07/2016
+#25993, nimylian, ['Ruby on Rails member'], · 2 comments, 30/07/2016, 30/07/2016
+#25994, sngeth, None, · 1 comment, 30/07/2016, 30/07/2016
+#25995, dnasseri, ['Ruby on Rails member'], · 5 comments, 30/07/2016, 30/07/2016
+#25996, CamJN, ['Ruby on Rails member'], · 1 comment, 30/07/2016, 30/07/2016
+#26005, openscript, None, · 4 comments, 31/07/2016, None
+#26006, vinay-mittal, None, · 0 comments, 31/07/2016, None
+#26010, Arlantir, ['Ruby on Rails member'], · 5 comments, 31/07/2016, 01/08/2016
+#26011, megahbite, ['Ruby on Rails member'], · 6 comments, 01/08/2016, None
+#26015, tomekw, None, · 4 comments, 01/08/2016, None
+#26018, dhh, ['Ruby on Rails member'], · 3 comments, 01/08/2016, 03/08/2016
+#26024, vsizov, ['Ruby on Rails member'], · 4 comments, 02/08/2016, None
+#26029, fredwillmore, ['Ruby on Rails member'], · 4 comments, 02/08/2016, 08/08/2016
+#26031, mankind, ['Ruby on Rails member'], · 4 comments, 02/08/2016, 03/08/2016
+#26032, cantin, ['Ruby on Rails member'], · 1 comment, 03/08/2016, None
+#26033, javierjulio, ['Ruby on Rails member'], · 14 comments, 03/08/2016, 05/08/2016
+#26034, rwilliams, ['Ruby on Rails member'], · 10 comments, 03/08/2016, 03/08/2016
+#26038, tak1n, ['Ruby on Rails member'], · 5 comments, 03/08/2016, 03/08/2016
+#26039, vmeyet, ['Ruby on Rails member'], · 4 comments, 03/08/2016, 03/08/2016
+#26040, ybart, ['Ruby on Rails member'], · 2 comments, 03/08/2016, None
+#26045, dhh, ['Ruby on Rails member'], · 1 comment, 03/08/2016, None
+#26046, gslopez, ['Ruby on Rails member'], · 2 comments, 03/08/2016, None
+#26047, mattLummus, ['Ruby on Rails member'], · 3 comments, 03/08/2016, None
+#26048, secondstreetmedia, ['Ruby on Rails member'], · 2 comments, 03/08/2016, 03/08/2016
+#26054, a0x, ['Ruby on Rails member'], · 5 comments, 04/08/2016, 05/08/2016
+#26055, raunaklakhwani, ['Ruby on Rails member'], · 1 comment, 04/08/2016, 04/08/2016
+#26056, GoldenKeyRiver, ['Ruby on Rails member'], · 4 comments, 04/08/2016, 04/08/2016
+#26057, uk4d, None, · 1 comment, 04/08/2016, 05/08/2016
+#26064, Schwad, ['Ruby on Rails member'], · 11 comments, 05/08/2016, 05/08/2016
+#26066, ajazshaik, ['Ruby on Rails member'], · 1 comment, 05/08/2016, 05/08/2016
+#26069, javierjulio, ['Ruby on Rails member'], · 15 comments, 05/08/2016, 17/08/2016 - 19/08/2016
+#26075, logicminds, ['Ruby on Rails member'], · 7 comments, 06/08/2016, 09/08/2016
+#26080, MSP-Greg, ['Ruby on Rails member'], · 2 comments, 08/08/2016, 08/08/2016
+#26083, bboe, ['Ruby on Rails member'], · 7 comments, 08/08/2016, None
+#26084, georgeu2000, ['Ruby on Rails member'], · 2 comments, 08/08/2016, 08/08/2016
+#26085, diminish7, ['Ruby on Rails member'], · 10 comments, 08/08/2016, 09/08/2016
+#26087, travisoneill, None, · 1 comment, 09/08/2016, 19/08/2016
+#25890, nowakov, ['Ruby on Rails member'], · 4 comments, 19/07/2016, None
+#25810, PavelPenkov, ['Ruby on Rails member'], · 4 comments, 13/07/2016, 13/07/2016 - 14/07/2016
+#25812, smartsimpledublin, None, · 0 comments, 13/07/2016, 13/07/2016
+#25813, bolshakov, ['Ruby on Rails member'], · 4 comments, 13/07/2016, 14/07/2016
+#25820, zspoelstra, ['Ruby on Rails member'], · 1 comment, 13/07/2016, None
+#25824, thutterer, ['Ruby on Rails member'], · 1 comment, 14/07/2016, None
+#25830, PavelPenkov, None, · 3 comments, 14/07/2016, None
+#25832, fledman, ['Ruby on Rails member'], · 2 comments, 14/07/2016, 14/07/2016
+#25833, naoki-k, None, · 0 comments, 14/07/2016, 14/07/2016
+#25835, jgelo, ['Ruby on Rails member'], · 9 comments, 14/07/2016, None
+#25836, JasonLunn, ['Ruby on Rails member'], · 8 comments, 14/07/2016, 17/07/2016
+#25837, machty, ['Ruby on Rails member'], · 1 comment, 14/07/2016, None
+#25838, bdmac, ['Ruby on Rails member'], · 2 comments, 14/07/2016, None
+#25840, bdmac, ['Ruby on Rails member'], · 4 comments, 14/07/2016, 23/07/2016
+#25842, sethk, ['Ruby on Rails member'], · 11 comments, 15/07/2016, 15/07/2016
+#25846, owen2345, None, · 1 comment, 15/07/2016, 15/07/2016
+#25848, abepetrillo, ['Ruby on Rails member'], · 3 comments, 15/07/2016, 15/07/2016
+#25852, Woolworths, ['Ruby on Rails member'], · 1 comment, 16/07/2016, 16/07/2016
+#25855, nicoschuele, ['Ruby on Rails member'], · 3 comments, 16/07/2016, 16/07/2016
+#25858, takiy33, ['Ruby on Rails member'], · 2 comments, 17/07/2016, 17/07/2016
+#25859, darkbaby123, ['Ruby on Rails member'], · 6 comments, 17/07/2016, 07/08/2016
+#25865, vipulnsward, ['Ruby on Rails member'], · 1 comment, 17/07/2016, None
+#25872, ArpiaPsuv, ['Ruby on Rails member'], · 1 comment, 18/07/2016, 18/07/2016
+#25875, leejarvis, ['Ruby on Rails member'], · 6 comments, 18/07/2016, 18/07/2016
+#25879, Prizrack13, ['Ruby on Rails member'], · 2 comments, 18/07/2016, 18/07/2016
+#25882, ideo-henry, ['Ruby on Rails member'], · 7 comments, 18/07/2016, None
+#25892, thomasfedb, ['Ruby on Rails member'], · 6 comments, 19/07/2016, 25/07/2016
+#25893, jeremyblalock, ['Ruby on Rails member'], · 3 comments, 19/07/2016, 19/07/2016
+#25894, david50407, ['Ruby on Rails member'], · 6 comments, 20/07/2016, 20/07/2016
+#25896, Adamantish, ['Ruby on Rails member'], · 1 comment, 20/07/2016, 20/07/2016
+#25899, voxik, ['Ruby on Rails member'], · 1 comment, 20/07/2016, 21/07/2016
+#25906, jonathansimmons, ['Ruby on Rails member'], · 9 comments, 21/07/2016, 25/07/2016
+#25909, jsnick, None, · 3 comments, 21/07/2016, 21/07/2016 - 22/07/2016
+#25910, rosenfeld, None, · 2 comments, 21/07/2016, 21/07/2016
+#25915, kirs, ['Ruby on Rails member'], · 5 comments, 21/07/2016, 23/07/2016
+#25916, axvm, None, · 2 comments, 21/07/2016, None
+#25918, briantigerchow, ['Ruby on Rails member'], · 13 comments, 22/07/2016, 22/07/2016
+#25920, jsnick, ['Ruby on Rails member'], · 1 comment, 22/07/2016, None
+#25922, andela-oakinniranye, ['Ruby on Rails member'], · 4 comments, 22/07/2016, 25/07/2016
+#25924, ball-hayden, None, · 3 comments, 22/07/2016, 28/07/2016
+#25925, joelpresence, ['Ruby on Rails member'], · 1 comment, 22/07/2016, 22/07/2016
+#25926, jkuchta, ['Ruby on Rails member'], · 6 comments, 22/07/2016, 26/07/2016
+#25932, grosser, ['Ruby on Rails member'], · 1 comment, 23/07/2016, None
+#25935, junyanakamura4091, ['Ruby on Rails member'], · 2 comments, 24/07/2016, 24/07/2016
+#25943, okamos, ['Ruby on Rails member'], · 1 comment, 25/07/2016, 25/07/2016
+#25947, vickeysi, ['Ruby on Rails member'], · 1 comment, 25/07/2016, 27/07/2016
+#25954, lacco, ['Ruby on Rails member'], · 3 comments, 26/07/2016, 27/07/2016 - 27/07/2016
+#25955, YoonjaeYoo, None, · 2 comments, 26/07/2016, 27/07/2016
+#25957, JacobEvelyn, ['Ruby on Rails member'], · 2 comments, 26/07/2016, 26/07/2016
+#25964, bendilley, ['Ruby on Rails member'], · 3 comments, 27/07/2016, 27/07/2016
+#25751, schuetzm, ['Ruby on Rails member'], · 4 comments, 08/07/2016, 08/07/2016
+#25672, grosser, ['Ruby on Rails member'], · 6 comments, 04/07/2016, 05/07/2016
+#25673, DannyBen, ['Ruby on Rails member'], · 5 comments, 04/07/2016, 04/07/2016
+#25674, h8rry, ['Ruby on Rails member'], · 1 comment, 04/07/2016, 04/07/2016
+#25676, waghanza, ['Ruby on Rails member'], · 17 comments, 04/07/2016, 04/07/2016 - 07/07/2016
+#25677, mahnunchik, ['Ruby on Rails member'], · 3 comments, 04/07/2016, 08/07/2016
+#25682, voxik, ['Ruby on Rails member'], · 4 comments, 04/07/2016, 05/07/2016
+#25683, voxik, ['Ruby on Rails member'], · 2 comments, 04/07/2016, 12/07/2016
+#25689, mrbongiolo, ['Ruby on Rails member'], · 8 comments, 04/07/2016, 28/07/2016
+#25697, CodingItWrong, ['Ruby on Rails member'], · 1 comment, 05/07/2016, 05/07/2016
+#25700, janwendt, ['Ruby on Rails member'], · 1 comment, 05/07/2016, None
+#25701, nbibler, None, · 5 comments, 05/07/2016, 12/07/2016
+#25706, marcamillion, ['Ruby on Rails member'], · 1 comment, 05/07/2016, 05/07/2016
+#25711, marcinwyszynski, ['Ruby on Rails member'], · 6 comments, 06/07/2016, None
+#25712, chenasraf, ['Ruby on Rails member'], · 4 comments, 06/07/2016, None
+#25715, hedgesky, ['Ruby on Rails member'], · 1 comment, 06/07/2016, 06/07/2016
+#25718, marcalc, None, · 4 comments, 06/07/2016, None
+#25719, bluehallu, ['Ruby on Rails member'], · 5 comments, 06/07/2016, None
+#25722, danielterega, None, · 1 comment, 06/07/2016, 06/07/2016
+#25732, Tietew, ['Ruby on Rails member'], · 6 comments, 07/07/2016, 20/07/2016
+#25738, carlosmrce, ['Ruby on Rails member'], · 5 comments, 07/07/2016, None
+#25739, penman, ['Ruby on Rails member'], · 4 comments, 07/07/2016, None
+#25744, danmolloy, ['Ruby on Rails member'], · 4 comments, 07/07/2016, 20/08/2016
+#25746, afuno, ['Ruby on Rails member'], · 1 comment, 08/07/2016, 08/07/2016
+#25747, jimmybaker, None, · 0 comments, 08/07/2016, 08/07/2016
+#25749, sgrgic, ['Ruby on Rails member'], · 1 comment, 08/07/2016, 08/07/2016
+#25753, amysutedja, ['Ruby on Rails member'], · 3 comments, 08/07/2016, None
+#25754, bionicpill, None, · 1 comment, 08/07/2016, 08/07/2016
+#25755, dirceuvjr, ['Ruby on Rails member'], · 6 comments, 08/07/2016, 28/07/2016
+#25761, tarungarg, ['Ruby on Rails member'], · 7 comments, 09/07/2016, 11/07/2016
+#25762, Morpheu5, ['Ruby on Rails member'], · 9 comments, 09/07/2016, 13/07/2016
+#25763, bjegannathan-rpx, None, · 1 comment, 09/07/2016, 09/07/2016
+#25764, bragboy, None, · 2 comments, 09/07/2016, 09/07/2016
+#25770, amingilani, ['Ruby on Rails member'], · 8 comments, 10/07/2016, 10/07/2016
+#25772, amingilani, ['Ruby on Rails member'], · 4 comments, 10/07/2016, 10/07/2016
+#25774, voxik, ['Ruby on Rails member'], · 12 comments, 11/07/2016, None
+#25776, xdougx, ['Ruby on Rails member'], · 3 comments, 11/07/2016, 11/07/2016
+#25783, afuno, ['Ruby on Rails member'], · 1 comment, 11/07/2016, 11/07/2016
+#25784, kaspth, ['Ruby on Rails member'], · 5 comments, 11/07/2016, 13/08/2016
+#25787, cannikin, ['Ruby on Rails member'], · 6 comments, 11/07/2016, 25/07/2016
+#25788, Ashley-Pettit, ['Ruby on Rails member'], · 2 comments, 11/07/2016, 11/07/2016
+#25791, shakycode, ['Ruby on Rails member'], · 3 comments, 12/07/2016, 12/07/2016
+#25800, krzysiek1507, ['Ruby on Rails member'], · 1 comment, 12/07/2016, 13/07/2016
+#25801, sbfaulkner, ['Ruby on Rails member'], · 7 comments, 12/07/2016, 13/07/2016
+#25802, rosenfeld, ['Ruby on Rails member'], · 10 comments, 12/07/2016, 20/07/2016
+#25804, dhh, ['Ruby on Rails member'], · 15 comments, 12/07/2016, 12/07/2016
+#25805, vais, ['Ruby on Rails member'], · 5 comments, 13/07/2016, 13/07/2016
+#25806, majioa, None, · 1 comment, 13/07/2016, None
+#25807, johnnytemp, ['Ruby on Rails member'], · 7 comments, 13/07/2016, 13/07/2016
+#25809, doits, ['Ruby on Rails member'], · 1 comment, 13/07/2016, 15/07/2016
+#25666, shaktik1989, ['Ruby on Rails member'], · 1 comment, 03/07/2016, 04/07/2016
+#25592, jfornoff, ['Ruby on Rails member'], · 1 comment, 30/06/2016, 25/07/2016
+#25593, voxik, ['Ruby on Rails member'], · 3 comments, 30/06/2016, 30/06/2016
+#25594, drewhamlett, ['Ruby on Rails member'], · 10 comments, 30/06/2016, 01/07/2016
+#25595, crackedmind, ['Ruby on Rails member'], · 10 comments, 30/06/2016, 01/07/2016 - 11/07/2016
+#25610, benoitongit, None, · 0 comments, 30/06/2016, 30/06/2016
+#25613, tinco, ['Ruby on Rails member'], · 1 comment, 30/06/2016, 01/07/2016
+#25614, Kache, ['Ruby on Rails member'], · 4 comments, 30/06/2016, 30/06/2016
+#25617, jprince, ['Ruby on Rails member'], · 4 comments, 01/07/2016, None
+#25622, kannannadarajan, ['Ruby on Rails member'], · 9 comments, 01/07/2016, 02/07/2016
+#25627, electrodem, ['Ruby on Rails member'], · 2 comments, 01/07/2016, None
+#25629, connorshea, ['Ruby on Rails member'], · 2 comments, 01/07/2016, 01/07/2016
+#25630, rbrownejr, ['Ruby on Rails member'], · 1 comment, 01/07/2016, 02/07/2016
+#25636, devonestes, ['Ruby on Rails member'], · 14 comments, 01/07/2016, 01/07/2016 - 12/07/2016
+#25637, emmby, ['Ruby on Rails member'], · 1 comment, 01/07/2016, 01/07/2016
+#25641, hw676018683, ['Ruby on Rails member'], · 4 comments, 02/07/2016, 02/07/2016
+#25648, alexpetroni, ['Ruby on Rails member'], · 1 comment, 02/07/2016, 02/07/2016
+#25649, alexhanh, ['Ruby on Rails member'], · 24 comments, 02/07/2016, 09/07/2016
+#25651, qiheme, ['Ruby on Rails member'], · 3 comments, 02/07/2016, None
+#25653, krzysiek1507, ['Ruby on Rails member'], · 9 comments, 02/07/2016, 28/07/2016
+#25654, krzysiek1507, ['Ruby on Rails member'], · 3 comments, 02/07/2016, None
+#25655, sb8244, ['Ruby on Rails member'], · 11 comments, 02/07/2016, 04/07/2016
+#25660, will-in-wi, ['Ruby on Rails member'], · 4 comments, 03/07/2016, 03/07/2016
+#25662, brandonhilkert, ['Ruby on Rails member'], · 1 comment, 03/07/2016, 03/07/2016
+#25664, daniel-rikowski, ['Ruby on Rails member'], · 2 comments, 03/07/2016, None
